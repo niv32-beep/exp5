@@ -1,1 +1,2 @@
 master contents
+this is second line from remote
